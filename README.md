@@ -22,3 +22,4 @@ https://www.youtube.com/watch?v=SmoM1InWXr0
 * Hide state
   * [Unique ID service](https://github.com/nomad-software/go-channel-compendium/blob/master/hide-state/unique-id-service/main.go)
   * [Memory recycler](https://github.com/nomad-software/go-channel-compendium/blob/master/hide-state/memory-recycler/main.go)
+  * [Capped memory recycler](https://github.com/nomad-software/go-channel-compendium/blob/master/hide-state/capped-memory-recycler/main.go)
