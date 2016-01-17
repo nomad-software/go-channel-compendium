@@ -1,8 +1,9 @@
 /*
 In this example, a goroutine is started, does some work (in this case waiting
-for five seconds) then closes the channel. The closing of the channel signals
-the main goroutine to continue. There is no communication of data here, only
-syncronisation.
+for five seconds) then closes the channel. Unbuffered channels always halt the
+current goroutine until communication can take place. Closing the channel
+signals to the goroutine that it can continue because there is no more data to
+be received. Closed channels never halt execution of the goroutine.
 */
 package main
 
