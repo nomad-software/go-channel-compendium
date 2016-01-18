@@ -31,3 +31,4 @@ https://www.youtube.com/watch?v=SmoM1InWXr0
   * [Heartbeat](https://github.com/nomad-software/go-channel-compendium/blob/master/timers/heartbeat/main.go)
 * Examples
   * [Network multiplexer](https://github.com/nomad-software/go-channel-compendium/blob/master/examples/network-multiplexer/main.go)
+  * [First response](https://github.com/nomad-software/go-channel-compendium/blob/master/examples/first-response/main.go)
