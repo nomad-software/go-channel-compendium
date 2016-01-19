@@ -32,3 +32,4 @@ https://www.youtube.com/watch?v=SmoM1InWXr0
 * Examples
   * [Network multiplexer](https://github.com/nomad-software/go-channel-compendium/blob/master/examples/network-multiplexer/main.go)
   * [First response](https://github.com/nomad-software/go-channel-compendium/blob/master/examples/first-response/main.go)
+  * [Passing a channel](https://github.com/nomad-software/go-channel-compendium/blob/master/examples/passing-a-channel/main.go)
